@@ -2,8 +2,7 @@
 
 本项目基于ESP32开发了一款可穿戴的压感鞋垫设备，实时采集足底各个部位的压力数值，并通过无线传输发送给上位机设备。此外，为了对压力数据进行更好的可视化和预测分析，本项目还开发了一款IOS应用，对压力数据进行实时可视化以及存储。
 
-<iframe src="//player.bilibili.com/player.html?aid=820339639&bvid=BV1yG4y1c7Fs&cid=964262701&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-[![](https://bb-embed.herokuapp.com/embed?v=BV1yG4y1c7Fs)](https://player.bilibili.com/player.html?aid=820339639&bvid=BV1yG4y1c7Fs&cid=964262701&page=1)
+[![](vid_bilibili.png)]([https://youtu.be/291ET6Py6H8](https://www.bilibili.com/video/BV1yG4y1c7Fs/?spm_id_from=333.999.0.0&vd_source=e9b2cd66e80e8296b21ab63143f4d8aa))
 
 # 如何使用
 
